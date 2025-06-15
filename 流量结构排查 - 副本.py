@@ -13,7 +13,7 @@ client = clickhouse_connect.get_client(
     database='XXX'
 )
 #文件夹命名
-pkg_name = ('25419444')
+pkg_name = ('shopee-BR')
 
 
 query = ("""
